@@ -1,4 +1,4 @@
-# jpbarbosa.github.io
+# JP Barbosa
 
 * https://github.com/jpbarbosa (personal)
 * https://github.com/jp7internet (business)
