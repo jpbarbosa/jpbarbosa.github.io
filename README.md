@@ -1,7 +1,7 @@
 # jpbarbosa.github.io
 
 * https://github.com/jpbarbosa (personal)
-* https://github.com/jp7barbosa (business)
+* https://github.com/jp7internet (business)
 
 ### React Playground
 
