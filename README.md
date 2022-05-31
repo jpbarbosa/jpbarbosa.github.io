@@ -26,5 +26,5 @@
 
 ### Playground
 
-* [https://github.com/jpbarbosa/react-neo4j](https://github.com/jpbarbosa/react-neo4j)
+* [https://github.com/jpbarbosa/react-neo4j](https://github.com/jpbarbosa/react-neo4j) - [Website](https://jpbarbosa.github.io/react-neo4j)
 * [https://github.com/jpbarbosa/fibonacci](https://github.com/jpbarbosa/fibonacci) - [Website](https://jpbarbosa.github.io/fibonacci)
