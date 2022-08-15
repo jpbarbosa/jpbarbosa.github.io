@@ -3,6 +3,10 @@
 * [https://github.com/jpbarbosa](https://github.com/jpbarbosa) (personal)
 * [https://github.com/jp7internet](https://github.com/jp7internet) (business)
 
+### Event-Driven Architecture
+
+* https://github.com/jpbarbosa/sst-rekognition
+
 ### Full Stack Studies
 
 * [https://github.com/jp7internet/typescript-crud](https://github.com/jp7internet/typescript-crud) - [Website](https://jp7internet.github.io/typescript-crud)
