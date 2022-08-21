@@ -5,7 +5,7 @@
 
 ### Event-Driven Architecture
 
-* https://github.com/jpbarbosa/sst-rekognition
+* [https://github.com/jpbarbosa/sst-rekognition](https://github.com/jpbarbosa/sst-rekognition)
 
 ### Full Stack Studies
 
