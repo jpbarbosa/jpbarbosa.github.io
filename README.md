@@ -7,6 +7,11 @@
 
 * [https://github.com/jpbarbosa/sst-rekognition](https://github.com/jpbarbosa/sst-rekognition)
 
+### Neo4j (Graph Database)
+
+* [https://github.com/jpbarbosa/neo4j-api](https://github.com/jpbarbosa/neo4j-api)
+* [https://github.com/jpbarbosa/react-neo4j](https://github.com/jpbarbosa/react-neo4j) - [Website](https://jpbarbosa.github.io/react-neo4j)
+
 ### Full Stack Studies
 
 * [https://github.com/jp7internet/typescript-crud](https://github.com/jp7internet/typescript-crud) - [Website](https://jp7internet.github.io/typescript-crud)
@@ -30,5 +35,4 @@
 
 ### Playground
 
-* [https://github.com/jpbarbosa/react-neo4j](https://github.com/jpbarbosa/react-neo4j) - [Website](https://jpbarbosa.github.io/react-neo4j)
 * [https://github.com/jpbarbosa/fibonacci](https://github.com/jpbarbosa/fibonacci) - [Website](https://jpbarbosa.github.io/fibonacci)
