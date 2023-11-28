@@ -1,7 +1,11 @@
 # JP Barbosa
 
 * [https://github.com/jpbarbosa](https://github.com/jpbarbosa) (personal)
-* [https://github.com/jp7internet](https://github.com/jp7internet) (business)
+* [https://github.com/jp7io](https://github.com/jp7io) (business)
+
+### Focus
+
+* [https://github.com/jp7io/japan](https://github.com/jp7io/japan) - [Website](https://map.jp7io)
 
 ### Event-Driven Architecture
 
@@ -15,8 +19,8 @@
 
 ### Full Stack Studies
 
-* [https://github.com/jp7internet/typescript-crud](https://github.com/jp7internet/typescript-crud) - [Website](https://jp7internet.github.io/typescript-crud)
-* [https://github.com/jp7internet/typescript-crud-api](https://github.com/jp7internet/typescript-crud-api) - [Website](https://typescript-crud-api.herokuapp.com)
+* [https://github.com/jp7io/typescript-crud](https://github.com/jp7io/typescript-crud) - [Website](https://jp7io.github.io/typescript-crud)
+* [https://github.com/jp7io/typescript-crud-api](https://github.com/jp7io/typescript-crud-api) - [Website](https://typescript-crud-api.herokuapp.com)
 
 ### GraphQL Studies
 
