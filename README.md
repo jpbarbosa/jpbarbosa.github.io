@@ -5,7 +5,7 @@
 
 ### Focus
 
-* [https://github.com/jp7io/japan](https://github.com/jp7io/japan) - [Website](https://map.jp7io)
+* [https://github.com/jp7io/japan](https://github.com/jp7io/japan) - [Website](https://map.jp7.io)
 
 ### Event-Driven Architecture
 
