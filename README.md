@@ -3,9 +3,9 @@
 * [https://github.com/jpbarbosa](https://github.com/jpbarbosa) (personal)
 * [https://github.com/jp7io](https://github.com/jp7io) (business)
 
-### Focus
+### Focus 🇯🇵
 
-* [https://github.com/jp7io/japan](https://github.com/jp7io/japan) - [Website](https://map.jp7.io)
+* [https://github.com/jp7io/nihon](https://github.com/jp7io/nihon) - [Website](https://nihon.jp7.io)
 
 ### Event-Driven Architecture
 
