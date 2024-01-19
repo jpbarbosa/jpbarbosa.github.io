@@ -7,6 +7,10 @@
 
 * [https://github.com/jp7io/nihon](https://github.com/jp7io/nihon) - [Website](https://nihon.jp7.io)
 
+### Serverless Puppeteer
+
+* [https://github.com/jp7io/puppy](https://github.com/jp7io/puppy)
+
 ### Event-Driven Architecture
 
 * [https://github.com/jpbarbosa/sst-rekognition](https://github.com/jpbarbosa/sst-rekognition)
